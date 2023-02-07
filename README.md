@@ -1,2 +1,2 @@
-# -IBM-Data-Science-Capstone
-This is a repository of my IBM Data Science Capstone from Coursera
+IBM-Data-Science-Capstone
+Repository of my IBM Data Science Capstone from Coursera
